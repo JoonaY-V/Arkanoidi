@@ -1,2 +1,0 @@
-# Arkanoidi
-Kouluprojekti
