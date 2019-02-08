@@ -1,0 +1,20 @@
+Arkanoid/Peggle tyyppinen peli
+
+Pallo ammutaan hiiren vasemmalla näppäimellä ja alustan saa liikkumaan nopeammine hiiren oikealla näppäimellä.
+Tarkoitus on tuhota kaikki esteet käytössä olevilla palloilla. Jos pallo ei osu alhaalla liikkuvaan alustaan, niin pelaaja menettää pallon. Osuessaan ei menetä.
+Pelissä on erivärisiä ja erilaisia poweruppeja, jotka helpottavat pelaajaa. Näitä löytyy neljää erilaista.
+
+Pelistä löytyvät ominaisuudet:
+-Alkuvalikko
+-Alus liikkuu
+-Pallo liikkuu ja törmäilee
+-Palikoita voi tuhota
+-Toimiva peli
+-Erilaisia poweruppeja 4kpl
+-Pallo lähtee eri suuntaan riippuen mihin se osuu
+-Viisi eri tasoa
+-Musiikki ja ääniefektit
+-Pelin pausetus
+-Pisteytys
+
+Tavoittelen pelistä arvosanaa 4 :)
