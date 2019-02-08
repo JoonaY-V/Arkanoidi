@@ -1,20 +1,18 @@
 Arkanoid/Peggle tyyppinen peli
 
-Pallo ammutaan hiiren vasemmalla n‰pp‰imell‰ ja alustan saa liikkumaan nopeammine hiiren oikealla n‰pp‰imell‰.
-Tarkoitus on tuhota kaikki esteet k‰ytˆss‰ olevilla palloilla. Jos pallo ei osu alhaalla liikkuvaan alustaan, niin pelaaja menett‰‰ pallon. Osuessaan ei menet‰.
-Peliss‰ on eriv‰risi‰ ja erilaisia poweruppeja, jotka helpottavat pelaajaa. N‰it‰ lˆytyy nelj‰‰ erilaista.
+Pallo ammutaan hiiren vasemmalla n√§pp√§imell√§ ja alustan saa liikkumaan nopeammine hiiren oikealla n√§pp√§imell√§.
+Tarkoitus on tuhota kaikki esteet k√§yt√∂ss√§ olevilla palloilla. Jos pallo ei osu alhaalla liikkuvaan alustaan, niin pelaaja menett√§√§ pallon. Osuessaan ei menet√§.
+Peliss√§ on eriv√§risi√§ ja erilaisia poweruppeja, jotka helpottavat pelaajaa. N√§it√§ l√∂ytyy nelj√§√§ erilaista.
 
-Pelist‰ lˆytyv‰t ominaisuudet:
+Pelist√§ l√∂ytyv√§t ominaisuudet:
 -Alkuvalikko
 -Alus liikkuu
--Pallo liikkuu ja tˆrm‰ilee
+-Pallo liikkuu ja t√∂rm√§ilee
 -Palikoita voi tuhota
 -Toimiva peli
 -Erilaisia poweruppeja 4kpl
--Pallo l‰htee eri suuntaan riippuen mihin se osuu
+-Pallo l√§htee eri suuntaan riippuen mihin se osuu
 -Viisi eri tasoa
--Musiikki ja ‰‰niefektit
+-Musiikki ja √§√§niefektit
 -Pelin pausetus
 -Pisteytys
-
-Tavoittelen pelist‰ arvosanaa 4 :)
